@@ -1,0 +1,2 @@
+# MySQLTricks
+Advanced SQL query
